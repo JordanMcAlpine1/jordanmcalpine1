@@ -1,6 +1,6 @@
 # Hello, my name is Jordan  
 
-Welcome to my GitHub profile! I am an experienced Wireless Engineer transitioning into Cybersecurity with expertise in network design, system hardening, and security protocols. Currently pursuing a Cybersecurity certification at the University of Texas at Austin, developing advanced skills in risk management, penetration testing, and secure architecture design through projects and labs. Passionate about leveraging technical expertise to protect networks, systems, and data from evolving threats.
+Welcome to my GitHub profile! I am an experienced Wireless Engineer transitioning into Cybersecurity with expertise in network design, system hardening, and security protocols. Currently pursuing a Cybersecurity certificate at the University of Texas at Austin, developing advanced skills in risk management, penetration testing, and secure architecture design through projects and labs. Passionate about leveraging technical expertise to protect networks, systems, and data from evolving threats.
 
 
 ---
