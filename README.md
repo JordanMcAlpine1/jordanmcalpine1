@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I am an experienced Wireless Engineer transitionin
 
 ## Cybersecurity Projects  
 
-Here are some of the projects I've been working on:  
 
 ### 1. **Linux Lab**  
 - **Description:** This project involves performing a series of investigative tasks, including password recovery, user account penetration, log file analysis, file permission auditing, debugging scripts, inspecting custom aliases, exploiting vulnerabilities for root access, and password cracking to gather and decode all flags.  
