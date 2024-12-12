@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I am an experienced Wireless Engineer transitionin
 - **Repository:**   [Linux Server Hardnening](https://github.com/JordanMcAlpine1/LinuxServerHardening) 
 
 
-### 1. **Linux Lab**  
+### 2. **Linux Lab**  
 - **Description:** This project involves performing a series of investigative tasks, including password recovery, user account penetration, log file analysis, file permission auditing, debugging scripts, inspecting custom aliases, exploiting vulnerabilities for root access, and password cracking to gather and decode all flags.  
 - **Operating System:** Linux
 - **Key Skills:** Linux Command-Line Proficiency, Scripting and Debugging, Privilege Escalation Techniques, Password Hash Analysis and Cracking   
