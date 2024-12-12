@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I am an experienced Wireless Engineer transitionin
 - **Description:** This project focuses on improving the security, performance, and manageability of a Linux system by implementing various system hardening measures and best practices. The tasks are designed to address potential vulnerabilities, streamline system operations, and ensure compliance with security standards.  
 - **Operating System:** Linux
 - **Key Skills:** User and Access Management, Service Auditing and Optimization, System Updates and Package Management, File System Security, Log Management and Troubleshooting, SSH Configuration and Secure Remote Access
-- **Repository:**   [Linux Server Hardnening] (https://github.com/JordanMcAlpine1/LinuxServerHardening) 
+- **Repository:**   [Linux Server Hardnening](https://github.com/JordanMcAlpine1/LinuxServerHardening) 
 
 
 ### 1. **Linux Lab**  
