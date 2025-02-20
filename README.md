@@ -1,21 +1,31 @@
-# Hello, my name is Jordan  
+# EngineerID: Jordan
 
-Welcome to my GitHub profile! I am an experienced Wireless Engineer transitioning into Cybersecurity with expertise in network design, system hardening, and security protocols. Currently pursuing a Cybersecurity certificate at the University of Texas at Austin, developing advanced skills in risk management, penetration testing, and secure architecture design through projects and labs. Passionate about leveraging technical expertise to protect networks, systems, and data from evolving threats.
+### Title: Cybersecurity Professional
+### Background: Wireless Engineering
+### Security Clearance: Active Secret
+### Current Focus: Advanced Certifications in Risk Management and Secure Architecture Design
+
+#RewritingTheCode
 
 
 ---
 
 ## Cybersecurity Projects  
 
+### 1. **Web Application, Linux, Windows Attack CTF**  
+- **Description:** This project focuses on identifying and exploiting vulnerabilities across web applications, Linux, and Windows systems in a Capture The Flag (CTF) environment. The tasks involve penetration testing techniques to assess security weaknesses, escalate privileges, and extract sensitive information.
+- **Operating Systems:** Linux, Windows
+- **Key Skills:** Web Application Security, Network Reconnaissance, Vulnerability Exploitation, Privilege Escalation, Credential Dumping, Metasploit Framework, Burp Suite, Command Injection, SQL Injection, Local File Inclusion, Secure Session Management
+- **Repository:**   [Web Application, Linux, Windows Attack CTF](https://github.com/JordanMcAlpine1/WebApplicationLinuxWindowsAttackCTF) 
 
-### 1. **Linux Server Hardening**  
+### 2. **Linux Server Hardening**  
 - **Description:** This project focuses on improving the security, performance, and manageability of a Linux system by implementing various system hardening measures and best practices. The tasks are designed to address potential vulnerabilities, streamline system operations, and ensure compliance with security standards.  
 - **Operating System:** Linux
 - **Key Skills:** User and Access Management, Service Auditing and Optimization, System Updates and Package Management, File System Security, Log Management and Troubleshooting, SSH Configuration and Secure Remote Access
 - **Repository:**   [Linux Server Hardnening](https://github.com/JordanMcAlpine1/LinuxServerHardening) 
 
 
-### 2. **Linux Lab**  
+### 3. **Linux Lab**  
 - **Description:** This project involves performing a series of investigative tasks, including password recovery, user account penetration, log file analysis, file permission auditing, debugging scripts, inspecting custom aliases, exploiting vulnerabilities for root access, and password cracking to gather and decode all flags.  
 - **Operating System:** Linux
 - **Key Skills:** Linux Command-Line Proficiency, Scripting and Debugging, Privilege Escalation Techniques, Password Hash Analysis and Cracking   
@@ -24,5 +34,6 @@ Welcome to my GitHub profile! I am an experienced Wireless Engineer transitionin
 
 ---
 
-Thank you for visiting my profile! Feel free to connect with me or explore my projects.  
+
+Next project loading... 
 
