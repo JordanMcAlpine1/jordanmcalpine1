@@ -16,7 +16,7 @@
 - **Description:** This project focuses on identifying and exploiting vulnerabilities across web applications, Linux, and Windows systems in a Capture The Flag (CTF) environment. The tasks involve penetration testing techniques to assess security weaknesses, escalate privileges, and extract sensitive information.
 - **Operating Systems:** Linux, Windows
 - **Key Skills:** Web Application Security, Network Reconnaissance, Vulnerability Exploitation, Privilege Escalation, Credential Dumping, Metasploit Framework, Burp Suite, Command Injection, SQL Injection, Local File Inclusion, Secure Session Management
-- **Repository:**   [Web App, Linux, Windows Pen Test](https://github.com/JordanMcAlpine1/WebApplicationLinuxWindowsAttackCTF) 
+- **Repository:**   [Web App, Linux, Windows Pen Test](https://github.com/JordanMcAlpine1/WebAppLinuxWindowsPenTest)
 
 ### 2. **Linux Server Hardening**  
 - **Description:** This project focuses on improving the security, performance, and manageability of a Linux system by implementing various system hardening measures and best practices. The tasks are designed to address potential vulnerabilities, streamline system operations, and ensure compliance with security standards.  
