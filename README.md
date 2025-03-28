@@ -20,7 +20,7 @@ With a foundation in **wireless engineering** and a passion for **cyber defense*
 
 ## Cybersecurity Projects  
 
-### 1. **Self-Destructing USB  
+### 1. **Self-Destructing USB**  
 - **Description:** This project creates a self-destructing USB that logs unauthorized access attempts, monitors USB insertion, and triggers self-destruction on untrusted systems. It integrates log-based intrusion detection and automated responses to secure sensitive data.  
 - **Operating Systems:** macOS  
 - **Key Skills:** USB Security, Log-Based Intrusion Detection, Self-Destruct Mechanisms, macOS Scripting, Bash Scripting, Event Logging, System Monitoring  
