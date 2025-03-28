@@ -20,7 +20,13 @@ With a foundation in **wireless engineering** and a passion for **cyber defense*
 
 ## Cybersecurity Projects  
 
-### 1. **Splunk Defensive Solution**  
+### 1. **Self-Destructing USB  
+- **Description:** This project creates a self-destructing USB that logs unauthorized access attempts, monitors USB insertion, and triggers self-destruction on untrusted systems. It integrates log-based intrusion detection and automated responses to secure sensitive data.  
+- **Operating Systems:** macOS  
+- **Key Skills:** USB Security, Log-Based Intrusion Detection, Self-Destruct Mechanisms, macOS Scripting, Bash Scripting, Event Logging, System Monitoring  
+- **Repository:** [Self-Destructing USB – Log-Based Intrusion Detection & Forensic Analysis](https://github.com/JordanMcAlpine1/SelfDestructingUSB)
+
+### 2. **Splunk Defensive Solution**  
 - **Description:** This project involves setting up and utilizing Splunk as a security monitoring solution to investigate cyberattacks. The objective is to analyze logs from Windows and Apache servers, detect suspicious activities, and assess the effectiveness of security measures. Tasks include log ingestion, report generation, alert configuration, dashboard creation, and incident analysis to identify threats and anomalies.
 - **Key Components:**
     - Splunk
@@ -30,20 +36,20 @@ With a foundation in **wireless engineering** and a passion for **cyber defense*
 - **Key Skills:** Log analysis & Threat Detection, Security Monitoring, Incident Response, Report Generation & Alerting, Dashboard Creation, Data Visualization, SIEM Configuration & Optimization
 - **Repository:**   [Splunk Defensive Solution](https://github.com/JordanMcAlpine1/SplunkDefensiveSolution)
 
-### 2. **Web App, Linux, Windows Pen Test**  
+### 3. **Web App, Linux, Windows Pen Test**  
 - **Description:** This project focuses on identifying and exploiting vulnerabilities across web applications, Linux, and Windows systems in a Capture The Flag (CTF) environment. The tasks involve penetration testing techniques to assess security weaknesses, escalate privileges, and extract sensitive information.
 - **Operating Systems:** Linux, Windows
 - **Key Skills:** Web Application Security, Network Reconnaissance, Vulnerability Exploitation, Privilege Escalation, Credential Dumping, Metasploit Framework, Burp Suite, Command Injection, SQL Injection, Local File Inclusion, Secure Session Management
 - **Repository:**   [Web App, Linux, Windows Pen Test](https://github.com/JordanMcAlpine1/WebAppLinuxWindowsPenTest)
 
-### 3. **Linux Server Hardening**  
+### 4. **Linux Server Hardening**  
 - **Description:** This project focuses on improving the security, performance, and manageability of a Linux system by implementing various system hardening measures and best practices. The tasks are designed to address potential vulnerabilities, streamline system operations, and ensure compliance with security standards.  
 - **Operating System:** Linux
 - **Key Skills:** User and Access Management, Service Auditing and Optimization, System Updates and Package Management, File System Security, Log Management and Troubleshooting, SSH Configuration and Secure Remote Access
 - **Repository:**   [Linux Server Hardnening](https://github.com/JordanMcAlpine1/LinuxServerHardening) 
 
 
-### 4. **Linux Lab**  
+### 5. **Linux Lab**  
 - **Description:** This project involves performing a series of investigative tasks, including password recovery, user account penetration, log file analysis, file permission auditing, debugging scripts, inspecting custom aliases, exploiting vulnerabilities for root access, and password cracking to gather and decode all flags.  
 - **Operating System:** Linux
 - **Key Skills:** Linux Command-Line Proficiency, Scripting and Debugging, Privilege Escalation Techniques, Password Hash Analysis and Cracking   
