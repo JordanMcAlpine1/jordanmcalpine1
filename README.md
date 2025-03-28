@@ -2,7 +2,7 @@
 
 ## 🔐 Cybersecurity Professional | Former Wireless Engineer | Active Secret Clearance  
 
-## 🔹 Innovate. Secure. Defend. 🔹  
+## 🔺 Innovate. Secure. Defend. 🟦 
 
 With a foundation in **wireless engineering** and a passion for **cyber defense**, I specialize in **risk management, secure architecture design, and advanced threat detection**. My current focus is on **earning top industry certifications** while building hands-on projects that strengthen security postures across networks, applications, and enterprise systems.  
 
