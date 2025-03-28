@@ -24,7 +24,7 @@ With a foundation in **wireless engineering** and a passion for **cyber defense*
 - **Description:** This project creates a self-destructing USB that logs unauthorized access attempts, monitors USB insertion, and triggers self-destruction on untrusted systems. It integrates log-based intrusion detection and automated responses to secure sensitive data.  
 - **Operating Systems:** macOS  
 - **Key Skills:** USB Security, Log-Based Intrusion Detection, Self-Destruct Mechanisms, macOS Scripting, Bash Scripting, Event Logging, System Monitoring  
-- **Repository:** [Self-Destructing USB – Log-Based Intrusion Detection & Forensic Analysis](https://github.com/JordanMcAlpine1/SelfDestructingUSB)
+- **Repository:** [Self-Destructing USB](https://github.com/JordanMcAlpine1/SelfDestructingUSB)
 
 ### 2. **Splunk Defensive Solution**  
 - **Description:** This project involves setting up and utilizing Splunk as a security monitoring solution to investigate cyberattacks. The objective is to analyze logs from Windows and Apache servers, detect suspicious activities, and assess the effectiveness of security measures. Tasks include log ingestion, report generation, alert configuration, dashboard creation, and incident analysis to identify threats and anomalies.
