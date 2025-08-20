@@ -1,6 +1,6 @@
 # Jordan McAlpine
 
-## 🔐 Cybersecurity Professional | Former Wireless Engineer | Active Secret Clearance  
+## 🔐 Cybersecurity Engineer | Former Wireless Engineer | Active Secret Clearance  
 
 ## 🔺  Innovate. Secure. Defend.  🟦 
 
