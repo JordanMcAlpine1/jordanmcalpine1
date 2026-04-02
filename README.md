@@ -1,6 +1,6 @@
 # Jordan McAlpine
 
-## 🔐 Cybersecurity Analyst | Former Wireless Engineer | Active Secret Clearance  
+## 🔐 Cybersecurity Analyst | Former Wireless Engineer | Security Clearance: Secret (Eligible for Reactivation)  
 
 ## 🔺  Innovate. Secure. Defend.  🟦 
 
